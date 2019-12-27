@@ -1,5 +1,4 @@
 FROM rustlang/rust:nightly
-MAINTAINER <peter@goldsborough.me>
 
 ENV SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
 
